@@ -179,7 +179,7 @@ li:nth-child(5){
     grid-gap: 10px;
     padding-left: 35px;
     padding-right: 35px;    
-    place-items: space-evenly
+    place-content: space-evenly;
   }
   
 .grid-item1{
